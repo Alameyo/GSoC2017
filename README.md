@@ -1,6 +1,6 @@
-# GSoC2017
-Paweł Ścibiorski 
-Certificate management support for Spark
+## GSoC2017
+# Paweł Ścibiorski 
+## Certificate management support for Spark
 
 Hello, project on which I was working during this summer is Certificates Manager for Spark. Spark is XMPP Instant Messanger client written in Java. It is long lived project which have huge code base and had many contributors across many years. As another one contributor I become interested in security used in it. At beginning it apeared that Spark make use of Transpor Layer Security protocol to encrypt data going to and from server. 
 
