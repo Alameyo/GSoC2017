@@ -46,4 +46,17 @@ During developement code were often merged with Spark's master code base in numb
 JIRA: [SPARK -1926](https://issues.igniterealtime.org/browse/SPARK-1926) [SPARK-1927](https://issues.igniterealtime.org/browse/SPARK-1927) [SPARK-1928](https://issues.igniterealtime.org/browse/SPARK-1928), [SPARK-1929](https://issues.igniterealtime.org/browse/SPARK-1929),[SPARK-1937](https://issues.igniterealtime.org/browse/SPARK-1937), [SPARK-1938](https://issues.igniterealtime.org/browse/SPARK-1938), [SPARK-1940](https://issues.igniterealtime.org/browse/SPARK-1940)
 
 [SPARK-1932, SPARK-1930, SPARK-1935, SPARK-1933](https://github.com/igniterealtime/Spark/pull/345) 
+
 JIRA: [SPARK-1932](https://issues.igniterealtime.org/browse/SPARK-1932), [SPARK-1930](https://issues.igniterealtime.org/browse/SPARK-1930), [SPARK-1935](https://issues.igniterealtime.org/browse/SPARK-1935), [SPARK-1933](https://issues.igniterealtime.org/browse/SPARK-1933)
+
+[SPARK-1944](https://github.com/igniterealtime/Spark/pull/346)
+
+JIRA: [SPARK-1944](https://issues.igniterealtime.org/browse/SPARK-1944)
+
+[SPARK-1934, SPARK-1939 Certificate extensions](https://github.com/igniterealtime/Spark/pull/351)
+
+JIRA: [SPARK-1934](https://issues.igniterealtime.org/browse/SPARK-1934), [SPARK-1939](https://issues.igniterealtime.org/browse/SPARK-1939)
+
+[SPARK-1945, SPARK-1957, SPARK-1936](https://github.com/igniterealtime/Spark/pull/352)
+
+JIRA: [SPARK-1936](https://issues.igniterealtime.org/browse/SPARK-1936), [SPARK-1945](https://issues.igniterealtime.org/browse/SPARK-1945), [SPARK-1957](https://issues.igniterealtime.org/browse/SPARK-1957)
