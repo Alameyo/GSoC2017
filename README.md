@@ -60,3 +60,13 @@ JIRA: [SPARK-1934](https://issues.igniterealtime.org/browse/SPARK-1934), [SPARK-
 [SPARK-1945, SPARK-1957, SPARK-1936](https://github.com/igniterealtime/Spark/pull/352)
 
 JIRA: [SPARK-1936](https://issues.igniterealtime.org/browse/SPARK-1936), [SPARK-1945](https://issues.igniterealtime.org/browse/SPARK-1945), [SPARK-1957](https://issues.igniterealtime.org/browse/SPARK-1957)
+
+[SPARK-1941, SPARK-1954](https://github.com/igniterealtime/Spark/pull/353)
+
+JIRA: [SPARK-1941](https://issues.igniterealtime.org/browse/SPARK-1941), [SPARK-1954](https://issues.igniterealtime.org/browse/SPARK-1954)
+
+[SPARK-1966, SPARK-1952, SPARK-1969, SPARK-1970, SPARK-1971 and partially SPARK-1968](https://github.com/igniterealtime/Spark/pull/356)
+
+JIRA: [SPARK-1952](https://issues.igniterealtime.org/browse/SPARK-1952), [SPARK-1966](https://issues.igniterealtime.org/browse/SPARK-1966), [SPARK-1968](https://issues.igniterealtime.org/browse/SPARK-1968), [SPARK-1969](https://issues.igniterealtime.org/browse/SPARK-1969), [SPARK-1970](https://issues.igniterealtime.org/browse/SPARK-1970), [SPARK-1971](https://issues.igniterealtime.org/browse/SPARK-1971), [SPARK-1975](https://issues.igniterealtime.org/browse/SPARK-1975), [SPARK-1977](https://issues.igniterealtime.org/browse/SPARK-1977)
+
+[SPARK-1953, SPARK-1959, SPARK-1980 and some work on blacklist](https://github.com/igniterealtime/Spark/pull/367)
