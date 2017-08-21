@@ -39,7 +39,7 @@ Additional utility which is allowed by Mutual Authentication Panel is creation o
 Second option, to create Self Signed Certificate isn't perfectly safe and shouldn't be realy used for daily connections, neverthless it is often used as kind of proxy for testing purposes. This option will create certificate signed by own private key.
 
 ## Code:
-During developement code were often merged with Spark's master code base in number of pull request. As help system of JIRA issues were also used. Here are links to the code and issues:
+During developement code were often merged with Spark's master code base in number of pull request. As help system of JIRA issues were also used. Here are links to the code: and issues:
 
 [SPARK-1926, SPARK-1927, SPARK-1928, SPARK-1929, SPARK-1938 and SPARK-1937](https://github.com/igniterealtime/Spark/pull/344) 
 
@@ -70,3 +70,13 @@ JIRA: [SPARK-1941](https://issues.igniterealtime.org/browse/SPARK-1941), [SPARK-
 JIRA: [SPARK-1952](https://issues.igniterealtime.org/browse/SPARK-1952), [SPARK-1966](https://issues.igniterealtime.org/browse/SPARK-1966), [SPARK-1968](https://issues.igniterealtime.org/browse/SPARK-1968), [SPARK-1969](https://issues.igniterealtime.org/browse/SPARK-1969), [SPARK-1970](https://issues.igniterealtime.org/browse/SPARK-1970), [SPARK-1971](https://issues.igniterealtime.org/browse/SPARK-1971), [SPARK-1975](https://issues.igniterealtime.org/browse/SPARK-1975), [SPARK-1977](https://issues.igniterealtime.org/browse/SPARK-1977)
 
 [SPARK-1953, SPARK-1959, SPARK-1980 and some work on blacklist](https://github.com/igniterealtime/Spark/pull/367)
+
+JIRA: [SPARK-1953](https://issues.igniterealtime.org/browse/SPARK-1953), [SPARK-1959](https://issues.igniterealtime.org/browse/SPARK-1959),  
+
+[SPARK-1985 Support for TLS mutual authentication](https://github.com/igniterealtime/Spark/pull/371)
+
+JIRA: [SPARK-1985](https://issues.igniterealtime.org/browse/SPARK-1985)
+
+[SPARK-1989 create empty KeyStores](https://github.com/igniterealtime/Spark/pull/376)
+
+JIRA: [SPARK-1989](https://issues.igniterealtime.org/browse/SPARK-1989)
