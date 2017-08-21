@@ -43,7 +43,7 @@ During developement code were often merged with Spark's master code base in numb
 
 GITHUB: [SPARK-1926, SPARK-1927, SPARK-1928, SPARK-1929, SPARK-1938 and SPARK-1937](https://github.com/igniterealtime/Spark/pull/344) 
 
-JIRA: [SPARK -1926](https://issues.igniterealtime.org/browse/SPARK-1926) [SPARK-1927](https://issues.igniterealtime.org/browse/SPARK-1927) [SPARK-1928](https://issues.igniterealtime.org/browse/SPARK-1928), [SPARK-1929](https://issues.igniterealtime.org/browse/SPARK-1929),[SPARK-1937](https://issues.igniterealtime.org/browse/SPARK-1937), [SPARK-1938](https://issues.igniterealtime.org/browse/SPARK-1938), [SPARK-1940](https://issues.igniterealtime.org/browse/SPARK-1940)
+JIRA: [SPARK -1926](https://issues.igniterealtime.org/browse/SPARK-1926), [SPARK-1927](https://issues.igniterealtime.org/browse/SPARK-1927), [SPARK-1928](https://issues.igniterealtime.org/browse/SPARK-1928), [SPARK-1929](https://issues.igniterealtime.org/browse/SPARK-1929), [SPARK-1937](https://issues.igniterealtime.org/browse/SPARK-1937), [SPARK-1938](https://issues.igniterealtime.org/browse/SPARK-1938), [SPARK-1940](https://issues.igniterealtime.org/browse/SPARK-1940)
 
 GITHUB: [SPARK-1932, SPARK-1930, SPARK-1935, SPARK-1933](https://github.com/igniterealtime/Spark/pull/345) 
 
