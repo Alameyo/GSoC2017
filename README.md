@@ -41,42 +41,42 @@ Second option, to create Self Signed Certificate isn't perfectly safe and should
 ## Code:
 During developement code were often merged with Spark's master code base in number of pull request. As help system of JIRA issues were also used. Here are links to the code: and issues:
 
-[SPARK-1926, SPARK-1927, SPARK-1928, SPARK-1929, SPARK-1938 and SPARK-1937](https://github.com/igniterealtime/Spark/pull/344) 
+GITHUB: [SPARK-1926, SPARK-1927, SPARK-1928, SPARK-1929, SPARK-1938 and SPARK-1937](https://github.com/igniterealtime/Spark/pull/344) 
 
 JIRA: [SPARK -1926](https://issues.igniterealtime.org/browse/SPARK-1926) [SPARK-1927](https://issues.igniterealtime.org/browse/SPARK-1927) [SPARK-1928](https://issues.igniterealtime.org/browse/SPARK-1928), [SPARK-1929](https://issues.igniterealtime.org/browse/SPARK-1929),[SPARK-1937](https://issues.igniterealtime.org/browse/SPARK-1937), [SPARK-1938](https://issues.igniterealtime.org/browse/SPARK-1938), [SPARK-1940](https://issues.igniterealtime.org/browse/SPARK-1940)
 
-[SPARK-1932, SPARK-1930, SPARK-1935, SPARK-1933](https://github.com/igniterealtime/Spark/pull/345) 
+GITHUB: [SPARK-1932, SPARK-1930, SPARK-1935, SPARK-1933](https://github.com/igniterealtime/Spark/pull/345) 
 
 JIRA: [SPARK-1932](https://issues.igniterealtime.org/browse/SPARK-1932), [SPARK-1930](https://issues.igniterealtime.org/browse/SPARK-1930), [SPARK-1935](https://issues.igniterealtime.org/browse/SPARK-1935), [SPARK-1933](https://issues.igniterealtime.org/browse/SPARK-1933)
 
-[SPARK-1944](https://github.com/igniterealtime/Spark/pull/346)
+GITHUB: [SPARK-1944](https://github.com/igniterealtime/Spark/pull/346)
 
 JIRA: [SPARK-1944](https://issues.igniterealtime.org/browse/SPARK-1944)
 
-[SPARK-1934, SPARK-1939 Certificate extensions](https://github.com/igniterealtime/Spark/pull/351)
+GITHUB: [SPARK-1934, SPARK-1939 Certificate extensions](https://github.com/igniterealtime/Spark/pull/351)
 
 JIRA: [SPARK-1934](https://issues.igniterealtime.org/browse/SPARK-1934), [SPARK-1939](https://issues.igniterealtime.org/browse/SPARK-1939)
 
-[SPARK-1945, SPARK-1957, SPARK-1936](https://github.com/igniterealtime/Spark/pull/352)
+GITHUB: [SPARK-1945, SPARK-1957, SPARK-1936](https://github.com/igniterealtime/Spark/pull/352)
 
 JIRA: [SPARK-1936](https://issues.igniterealtime.org/browse/SPARK-1936), [SPARK-1945](https://issues.igniterealtime.org/browse/SPARK-1945), [SPARK-1957](https://issues.igniterealtime.org/browse/SPARK-1957)
 
-[SPARK-1941, SPARK-1954](https://github.com/igniterealtime/Spark/pull/353)
+GITHUB: [SPARK-1941, SPARK-1954](https://github.com/igniterealtime/Spark/pull/353)
 
 JIRA: [SPARK-1941](https://issues.igniterealtime.org/browse/SPARK-1941), [SPARK-1954](https://issues.igniterealtime.org/browse/SPARK-1954)
 
-[SPARK-1966, SPARK-1952, SPARK-1969, SPARK-1970, SPARK-1971 and partially SPARK-1968](https://github.com/igniterealtime/Spark/pull/356)
+GITHUB: [SPARK-1966, SPARK-1952, SPARK-1969, SPARK-1970, SPARK-1971 and partially SPARK-1968](https://github.com/igniterealtime/Spark/pull/356)
 
 JIRA: [SPARK-1952](https://issues.igniterealtime.org/browse/SPARK-1952), [SPARK-1966](https://issues.igniterealtime.org/browse/SPARK-1966), [SPARK-1968](https://issues.igniterealtime.org/browse/SPARK-1968), [SPARK-1969](https://issues.igniterealtime.org/browse/SPARK-1969), [SPARK-1970](https://issues.igniterealtime.org/browse/SPARK-1970), [SPARK-1971](https://issues.igniterealtime.org/browse/SPARK-1971), [SPARK-1975](https://issues.igniterealtime.org/browse/SPARK-1975), [SPARK-1977](https://issues.igniterealtime.org/browse/SPARK-1977)
 
-[SPARK-1953, SPARK-1959, SPARK-1980 and some work on blacklist](https://github.com/igniterealtime/Spark/pull/367)
+GITHUB: [SPARK-1953, SPARK-1959, SPARK-1980 and some work on blacklist](https://github.com/igniterealtime/Spark/pull/367)
 
 JIRA: [SPARK-1953](https://issues.igniterealtime.org/browse/SPARK-1953), [SPARK-1959](https://issues.igniterealtime.org/browse/SPARK-1959),  
 
-[SPARK-1985 Support for TLS mutual authentication](https://github.com/igniterealtime/Spark/pull/371)
+GITHUB: [SPARK-1985 Support for TLS mutual authentication](https://github.com/igniterealtime/Spark/pull/371)
 
 JIRA: [SPARK-1985](https://issues.igniterealtime.org/browse/SPARK-1985)
 
-[SPARK-1989 create empty KeyStores](https://github.com/igniterealtime/Spark/pull/376)
+GITHUB: [SPARK-1989 create empty KeyStores](https://github.com/igniterealtime/Spark/pull/376)
 
 JIRA: [SPARK-1989](https://issues.igniterealtime.org/browse/SPARK-1989)
