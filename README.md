@@ -18,7 +18,7 @@ Clicing on it (or on button "show certificate") will cause popup of more detaile
 
 Here user can see all possible informations about certificate such as it's issuer, it's signature, validity period and various number of extensions. There is huge possible number of extensions, many of them are in use only by particualr private companies so not always it is easy to find description for them, information how to read them and their use. In such case user will get information that given certificate extension isn't known to Spark and Object ID of that extension will be listed in certificate dialog in unsupported extension's area.
 
-![Spark_certificate_dialog](https://github.com/Alameyo/GSoC2017/blob/master/SparkCertificateDialog.png)
+![Spark_certificate_dialog](https://github.com/Alameyo/GSoC2017/blob/master/SparkCertificatesPanel.png)
 
 ### Trust Managers
 
