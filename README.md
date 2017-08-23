@@ -94,3 +94,4 @@ Project is generaly done, but still there are some things that could be improved
 * new idea arouse to add certificates from chain recived from server
 * guide for the new settings provided by the project is yet to be created
 * it would be nice to add some util for searching certificates by typing their's names
+* from time to time there happens error at adding/removing certificate from exceptions
