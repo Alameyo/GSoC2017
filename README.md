@@ -35,6 +35,9 @@ It is rare in use but TLS protocol definies also optionally Authentication of th
 Additional utility which is allowed by Mutual Authentication Panel is creation of the Certificate Sign Request and Self Signed Certificates. First one contain public key and other data which can be brought to the Certificate Authority. CA can sign this with it's private key and issue a certificate. That issued certificate can be uploaded using Mutual Authentication Panel to identify client. 
 Second option is to create Self Signed Certificate, which isn't perfectly safe, and thus shouldn't be used for daily connections. Nevertheless it is often used as kind of proxy for testing purposes. This option will create certificate signed by own private key.
 
+### Blog
+Starting during community bonding period I documented whole development proces with blog. It also included some thoughts about PKI and the project. [Here](https://community.igniterealtime.org/people/alameyo/blog) you can see my posts.
+
 ## Code:
 During developement code were often merged with Spark's master code base in number of pull request. To clarify the development process JIRA's issues system has been used. Here are links to the code and issues:
 
@@ -77,3 +80,17 @@ JIRA: [SPARK-1985](https://issues.igniterealtime.org/browse/SPARK-1985)
 GITHUB: [SPARK-1989 create empty KeyStores](https://github.com/igniterealtime/Spark/pull/376)
 
 JIRA: [SPARK-1989](https://issues.igniterealtime.org/browse/SPARK-1989)
+
+GITHUB: [SPARK-1994 Make use of the JRE certificates](https://github.com/igniterealtime/Spark/pull/377)
+
+JIRA: [SPARK-1994](https://issues.igniterealtime.org/browse/SPARK-1994)
+
+### Still TO-DO
+
+Project is generaly done, but still there are some things that could be improved and ideas for extending it. Worthy to mention:
+
+* sorting of the tables with certificates is temporaily disabled as it require some fix
+* identity table isn't refreshing at update yet
+* new idea arouse to add certificates from chain recived from server
+* guide for the new settings provided by the project is yet to be created
+* it would be nice to add some util for searching certificates by typing their's names
