@@ -87,10 +87,9 @@ JIRA: [SPARK-1994](https://issues.igniterealtime.org/browse/SPARK-1994)
 
 ### Still TO-DO
 
-Project is generaly done, but still there are some things that could be improved and ideas for extending it. Worthy to mention:
+Project is generally done but still there are some things that could be improved as well as new ideas for extending it. Worthy to mention:
 
 * sorting of the tables with certificates is temporaily disabled as it require some fix
-* identity table isn't refreshing at update yet
 * new idea arouse to add certificates from chain recived from server
 * guide for the new settings provided by the project is yet to be created
 * it would be nice to add some util for searching certificates by typing their's names
