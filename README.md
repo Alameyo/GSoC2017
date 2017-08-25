@@ -26,7 +26,7 @@ Next problem that come during work was existing Trust Manager, it is class handl
 
 ### Mutual Authentication
 
-It is rare in use but TLS protocol definies also optionally Authentication of the both sides of the connection. For client side authentication I created additional KeyStore which holds client's private key together with client's certificate. During setting up TLS connection I send this certificate (or more certificates as client can have number of them) using Key Manager class. Coresponding server's Trust Manager will decide to accept or not this certificates. This panel allow users to add and remove private keys and certificates to identity KeyStore.
+It is rare in use (at least in XMPP) but TLS protocol definies also optionally Authentication of the both sides of the connection. For client side authentication I created additional KeyStore which holds client's private key together with client's certificate. During setting up TLS connection I send this certificate (or more certificates as client can have number of them) using Key Manager class. Coresponding server's Trust Manager will decide to accept or not this certificates. This panel allow users to add and remove private keys and certificates to identity KeyStore.
 
 ![Spark_Mutual_Auth_panel](https://github.com/Alameyo/GSoC2017/blob/master/SparkMutualAuthPanel.png?raw=true)
 
@@ -85,12 +85,16 @@ GITHUB: [SPARK-1994 Make use of the JRE certificates](https://github.com/igniter
 
 JIRA: [SPARK-1994](https://issues.igniterealtime.org/browse/SPARK-1994)
 
+GITHUB: [SPARK-1995, SPARK-1996, SPARK-1997 and lack of resources in one text](https://github.com/igniterealtime/Spark/pull/378/commits)
+
+JIRA: [SPARK-1995](https://issues.igniterealtime.org/browse/SPARK-1995), [SPARK-1996](https://issues.igniterealtime.org/browse/SPARK-1996), SPARK-1997(https://issues.igniterealtime.org/browse/SPARK-1997)
+
 ### Still TO-DO
 
 Project is generally done but still there are some things that could be improved as well as new ideas for extending it. Worthy to mention:
 
 * sorting of the tables with certificates is temporaily disabled as it require some fix
-* new idea arouse to add certificates from chain recived from server
+* new idea arouse: to add certificates to TrustStore from chain recived from server
 * guide for the new settings provided by the project is yet to be created
-* it would be nice to add some util for searching certificates by typing their's names
+* it would be nice to add some tool for searching certificates by typing their's names
 * from time to time there happens error at adding/removing certificate from exceptions
