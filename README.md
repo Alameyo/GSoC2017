@@ -96,5 +96,5 @@ The project is generally done but still there are some things that could be impr
 * sorting of the tables with certificates is temporaily disabled as it require some fix [SPARK-1951](https://issues.igniterealtime.org/browse/SPARK-1951)
 * new idea: to add certificates to TrustStore from chain recived from server [SPARK-2001](https://issues.igniterealtime.org/browse/SPARK-1951)
 * guide for the new settings provided by the project is yet to be created [SPARK-2002](https://issues.igniterealtime.org/browse/SPARK-2002)
-* it would be nice to add some tool for searching certificates by typing their names [SPARK-2003] (https://issues.igniterealtime.org/browse/SPARK-2003)
+* it would be nice to add some tool for searching certificates by typing their names [SPARK-2003](https://issues.igniterealtime.org/browse/SPARK-2003)
 * from time to time there occurs an error at adding/removing certificate from exceptions [SPARK-1999](https://issues.igniterealtime.org/browse/SPARK-1999)
