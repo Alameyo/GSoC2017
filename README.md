@@ -87,7 +87,7 @@ JIRA: [SPARK-1994](https://issues.igniterealtime.org/browse/SPARK-1994)
 
 GITHUB: [SPARK-1995, SPARK-1996, SPARK-1997 and lack of resources in one text](https://github.com/igniterealtime/Spark/pull/378/commits)
 
-JIRA: [SPARK-1995](https://issues.igniterealtime.org/browse/SPARK-1995), [SPARK-1996](https://issues.igniterealtime.org/browse/SPARK-1996), SPARK-1997(https://issues.igniterealtime.org/browse/SPARK-1997)
+JIRA: [SPARK-1995](https://issues.igniterealtime.org/browse/SPARK-1995), [SPARK-1996](https://issues.igniterealtime.org/browse/SPARK-1996), [SPARK-1997](https://issues.igniterealtime.org/browse/SPARK-1997)
 
 ### Still TO-DO
 
