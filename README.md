@@ -93,8 +93,8 @@ JIRA: [SPARK-1995](https://issues.igniterealtime.org/browse/SPARK-1995), [SPARK-
 
 The project is generally done but still there are some things that could be improved as well as new ideas for extending it. Worthy to mention:
 
-* sorting of the tables with certificates is temporaily disabled as it require some fix
-* new idea: to add certificates to TrustStore from chain recived from server
+* sorting of the tables with certificates is temporaily disabled as it require some fix [SPARK-1951](https://issues.igniterealtime.org/browse/SPARK-1951)
+* new idea: to add certificates to TrustStore from chain recived from server [SPARK-2001](https://issues.igniterealtime.org/browse/SPARK-1951)
 * guide for the new settings provided by the project is yet to be created
-* it would be nice to add some tool for searching certificates by typing their names
-* from time to time there occurs an error at adding/removing certificate from exceptions
+* it would be nice to add some tool for searching certificates by typing their names 
+* from time to time there occurs an error at adding/removing certificate from exceptions [SPARK-1999](https://issues.igniterealtime.org/browse/SPARK-1999)
